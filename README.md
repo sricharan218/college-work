@@ -1,24 +1,20 @@
-# College Work Project Structure
-
-This repository contains the different projects and assignments related to my college work. Below is an outline of the project structure:
+# College Work
 
 ## Project Structure
 
-```
-college-work/
-├── project1/
-│   ├── README.md
-│   ├── source_code/
-│   └── documentation/
-├── project2/
-│   ├── README.md
-│   ├── source_code/
-│   └── documentation/
-└── shared_resources/
-    ├── images/
-    └── reference_materials/
-```
+This repository contains various projects and assignments completed during college. Below is an overview of the project structure and contents.
 
-- **project1/**: Directory for the first project, containing its own README, source code, and documentation.
-- **project2/**: Directory for the second project with similar structure.
-- **shared_resources/**: Contains resources that are common across multiple projects, including images and reference materials.
+### Project Folders
+- **Assignments/**: Contains all assignment submissions and related materials.
+- **Projects/**: A collection of larger projects, possibly including team assignments and individual work.
+- **Resources/**: Additional resources, notes, and study materials used throughout the course.
+
+## Documentation
+
+Each folder may include a README file that describes its specific contents and any relevant instructions on how to run or use the projects contained within.
+
+### Important Notes
+- Ensure to read the individual README files in each project folder for specific instructions.
+- For collaborative projects, refer to the project-specific guidelines outlined in their respective directories.
+
+Feel free to reach out with questions or for clarification on any of the materials provided!
