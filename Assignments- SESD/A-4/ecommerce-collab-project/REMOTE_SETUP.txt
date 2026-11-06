@@ -1,0 +1,7 @@
+Connect to a real GitHub remote:
+1. Create an empty repository named ecommerce-collab-project.
+2. git remote add origin https://github.com/YOUR-USERNAME/ecommerce-collab-project.git
+3. git push -u origin main
+4. git push origin --all
+5. Enable GitHub Pages from main / (root).
+This project has not been pushed to a real remote; no GitHub account was connected.

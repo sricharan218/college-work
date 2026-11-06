@@ -1,0 +1,1 @@
+# Auth\n\nAuth feature: registration, login, logout and demo session state.\n

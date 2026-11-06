@@ -1,0 +1,1 @@
+Implemented by Developer C\nCart feature: add, remove, quantity and totals.\nReviewed locally; ready for integration.\n

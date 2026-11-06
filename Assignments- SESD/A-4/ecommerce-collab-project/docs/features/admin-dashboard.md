@@ -1,0 +1,1 @@
+# Admin Dashboard\n\nAdmin feature: inventory view and stock update controls.\n

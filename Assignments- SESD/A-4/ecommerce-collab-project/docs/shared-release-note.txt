@@ -1,0 +1,4 @@
+Release status: integrated draft.
+- Authentication and catalogue: ready (Developer A / Developer B).
+- Checkout and orders: ready (Developer D).
+- Both updates retained by the integration lead during conflict resolution.

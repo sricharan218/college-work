@@ -1,0 +1,1 @@
+# Catalog Search\n\nCatalog feature: product cards, text search and category filtering.\n

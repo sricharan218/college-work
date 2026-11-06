@@ -1,0 +1,13 @@
+:root{font-family:Arial,sans-serif;color:#1e293b;background:#f4f7fb}*{box-sizing:border-box}
+body{margin:0}header{background:#102b5c;color:white;padding:16px 5%;display:flex;gap:24px;align-items:center;flex-wrap:wrap}
+.brand{font-size:24px;font-weight:700;margin-right:auto}nav{display:flex;gap:8px;flex-wrap:wrap}
+button,input,select{font:inherit}button{border:0;border-radius:7px;padding:9px 13px;background:#2456a6;color:white;cursor:pointer}
+header button{background:#24477f}button:hover{filter:brightness(1.12)}main{max-width:1100px;margin:28px auto;padding:0 20px;min-height:70vh}
+h1{color:#102b5c}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+input,select{padding:10px;border:1px solid #cbd5e1;border-radius:7px;background:white}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.card,.panel{background:white;border:1px solid #dce4ef;border-radius:12px;padding:18px;box-shadow:0 2px 8px #0b1f4b0c}
+.price{font-weight:bold;color:#14532d}.muted{color:#64748b}.row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.notice{padding:12px;border-radius:8px;background:#eaf2ff;margin:12px 0}.danger{background:#fff1f2;color:#9f1239}
+table{width:100%;border-collapse:collapse;background:white}td,th{padding:10px;border-bottom:1px solid #e2e8f0;text-align:left}
+footer{text-align:center;padding:20px;color:#64748b}

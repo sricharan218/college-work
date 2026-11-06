@@ -1,0 +1,1 @@
+Implemented by Developer A\nAuth feature: registration, login, logout and demo session state.\nReviewed locally; ready for integration.\n
